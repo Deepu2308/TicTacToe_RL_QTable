@@ -12,9 +12,9 @@ from random import sample,uniform
 import itertools
 
 
-#edit path variables
-path_qTable_player1 = r'C:\Users\dunnikrishnan\Desktop\Projects\Tutorials\Reinforcement Learning\tic tak toe results/player_1_policy_v2.csv'
-path_qTable_player2 = r'C:\Users\dunnikrishnan\Desktop\Projects\Tutorials\Reinforcement Learning\tic tak toe results/player_2_policy_v2.csv' 
+#edit path variables here!!!!!
+path_qTable_player1 = r'.../player_1_policy_v2.csv'
+path_qTable_player2 = r'.../player_2_policy_v2.csv' 
 
 mat = np.array([[0,0,1],[0,1,0],[1,0,0]])
 
