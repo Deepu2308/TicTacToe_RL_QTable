@@ -56,3 +56,10 @@ root - INFO - SARSA : SARSA_LR_0.2_RD_0.7_EP_0.8 |  Won: 863 | Lost: 2 | Draw: 1
 root - INFO - SARSA : SARSA_LR_0.1_RD_0.1_EP_0.8 |  Won: 788 | Lost: 106 | Draw: 106 | Total Played : 1000
 root - INFO - SARSA : SARSA_LR_0.3_RD_0.1_EP_0.8 |  Won: 828 | Lost: 23 | Draw: 149 | Total Played : 1000
 root - INFO - SARSA : SARSA_LR_0.2_RD_0.1_EP_0.8 |  Won: 707 | Lost: 94 | Draw: 199 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.1_RD_0.7_EP_0.9 |  Won: 713 | Lost: 119 | Draw: 168 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.1_RD_0.4_EP_0.9 |  Won: 700 | Lost: 132 | Draw: 168 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.2_RD_0.7_EP_0.9 |  Won: 816 | Lost: 52 | Draw: 132 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.2_RD_0.4_EP_0.9 |  Won: 613 | Lost: 222 | Draw: 165 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.1_RD_0.1_EP_0.9 |  Won: 580 | Lost: 248 | Draw: 172 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.3_RD_0.1_EP_0.9 |  Won: 692 | Lost: 148 | Draw: 160 | Total Played : 1000
+root - INFO - SARSA : SARSA_LR_0.2_RD_0.1_EP_0.9 |  Won: 674 | Lost: 184 | Draw: 142 | Total Played : 1000
