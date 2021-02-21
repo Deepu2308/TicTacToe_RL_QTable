@@ -3,6 +3,9 @@
 Created on Sat Feb 13 15:36:49 2021
 
 @author: deepu
+
+environment code copied from : 
+        https://github.com/haje01/gym-tictactoe/blob/master/gym_tictactoe/env.py
 """
 
 import logging
@@ -118,7 +121,12 @@ class TicTacToeEnv(gym.Env):
             bool: Done
             dict: Additional information
         """
-        assert self.action_space.contains(action)
+        assert self.action_space.contains(action), "Action not in action space"
+        if action not in self.available_actions():
+            print("Action requested : ", action)
+            print("Available actions : ", self.available_actions())
+            self.render()
+        assert action in self.available_actions(), "Action not in available actions"
 
         loc = action
         if self.done:
